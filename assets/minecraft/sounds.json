@@ -1,0 +1,1827 @@
+{
+  "music.nether": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/siege",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/demons_lair",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/nether/bones_road",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/campaign",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/lizardman_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/cursed_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/twilight_bridge",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/feat_of_arms",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/way_to_the_dark_castle",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/army_of_the_dawn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/mountain_of_the_dwarf_king",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/nether/barbarian_fortress",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/caves/spider_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/knight",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/gnome_mines",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/dark_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/temple_of_eternity",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/caves/spider_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/dryad_mystic_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/knight",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/mushroom_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/temple_of_eternity",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/caves/knight",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/ancient_crypt",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/grounds_of_the_darkness",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/mushroom_cave",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/caves/dark_cave",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/end/fear",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/dead_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/hammer_of_the_chaos",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/turtle_bog",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/dragon_pass",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/land_of_ice",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/dark_eclipse",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/end/dark_side_main",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.under_water": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.savanna": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.plains": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/overworld/valley_of_a_thousand_rivers",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/to_the_horizon",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/home_lands",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/song_of_the_fildwind",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/sacred_quest",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/top_of_the_mountain",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/ride_unicorn",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/get_off_my_band",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/felonious_junk",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/under_the_shadow_of_the_oak",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/journey",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/overworld/major_rewrite",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.dragon": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/final_battle/battle_of_minds",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/final_battle/dead_island",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/creative/blind_spots",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.credits": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/credits/shadow_sweden_weather",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/menu/dreamland",
+        "volume": 0.5,
+        "stream": true
+      },
+      {
+        "name": "music/menu/gloryride",
+        "volume": 0.5,
+        "stream": true
+      }
+    ]
+  }
+}
